@@ -72,7 +72,7 @@ form button:hover {
   border: none;
   padding: 1rem;
   cursor: pointer;
-  font-size: 1rem;;
+  font-size: 1rem;
 }
 
 .complete-btn {
@@ -88,7 +88,7 @@ form button:hover {
   padding: 0rem 0.75rem;
 }
 
-.fa-trash, .fa-check-circle {
+.fa-trash, .fa-check {
   pointer-events: none;
 }
 
