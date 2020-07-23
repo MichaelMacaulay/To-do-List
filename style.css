@@ -144,3 +144,21 @@ select {
   background: #3d405b;
   color: white;
 }
+
+
+/* Make this badboi responsive */
+
+@media all and (max-width: 756px) {
+
+ h1 {
+   text-align: center;
+   width: 95%;
+ }
+
+  .todo-input, .filter-todo {
+    width: 80%;
+    margin-top: 0;
+  }
+
+  
+}
